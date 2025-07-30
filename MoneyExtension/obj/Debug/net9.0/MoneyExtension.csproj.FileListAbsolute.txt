@@ -9,3 +9,4 @@ C:\repos\MoneyExtension\MoneyExtension\obj\Debug\net9.0\MoneyExtension.dll
 C:\repos\MoneyExtension\MoneyExtension\obj\Debug\net9.0\refint\MoneyExtension.dll
 C:\repos\MoneyExtension\MoneyExtension\obj\Debug\net9.0\MoneyExtension.pdb
 C:\repos\MoneyExtension\MoneyExtension\obj\Debug\net9.0\ref\MoneyExtension.dll
+C:\repos\MoneyExtension\MoneyExtension\obj\Debug\net9.0\MoneyExtension.sourcelink.json

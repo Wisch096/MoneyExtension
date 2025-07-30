@@ -168,3 +168,7 @@ C:\repos\MoneyExtension\MoneyExtension.Tests\obj\Debug\net9.0\refint\MoneyExtens
 C:\repos\MoneyExtension\MoneyExtension.Tests\obj\Debug\net9.0\MoneyExtension.Tests.pdb
 C:\repos\MoneyExtension\MoneyExtension.Tests\obj\Debug\net9.0\MoneyExtension.Tests.genruntimeconfig.cache
 C:\repos\MoneyExtension\MoneyExtension.Tests\obj\Debug\net9.0\ref\MoneyExtension.Tests.dll
+C:\repos\MoneyExtension\MoneyExtension.Tests\bin\Debug\net9.0\.msCoverageSourceRootsMapping_MoneyExtension.Tests
+C:\repos\MoneyExtension\MoneyExtension.Tests\bin\Debug\net9.0\MoneyExtension.dll
+C:\repos\MoneyExtension\MoneyExtension.Tests\bin\Debug\net9.0\MoneyExtension.pdb
+C:\repos\MoneyExtension\MoneyExtension.Tests\obj\Debug\net9.0\MoneyExtension.Tests.sourcelink.json
