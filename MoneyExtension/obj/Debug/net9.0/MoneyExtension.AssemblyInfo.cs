@@ -10,13 +10,14 @@
 using System;
 using System.Reflection;
 
-[assembly: System.Reflection.AssemblyCompanyAttribute("MoneyExtension")]
+[assembly: System.Reflection.AssemblyCompanyAttribute("Verterent")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+21e6519cb93d06b194eee0b7f962633d903d3120")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+24224ff9e5651a788f8d90bafe56692a642c5fa0")]
 [assembly: System.Reflection.AssemblyProductAttribute("MoneyExtension")]
 [assembly: System.Reflection.AssemblyTitleAttribute("MoneyExtension")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
+[assembly: System.Reflection.AssemblyMetadataAttribute("RepositoryUrl", "https://github.com/Wisch096/MoneyExtension")]
 
 // Gerado pela classe WriteCodeFragment do MSBuild.
 
