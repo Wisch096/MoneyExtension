@@ -14,7 +14,7 @@
     "version": "1.0.0",
     "restore": {
       "projectUniqueName": "C:\\repos\\MoneyExtension\\MoneyExtension\\MoneyExtension.csproj",
-      "projectName": "MoneyExtensions",
+      "projectName": "MoneyExtension",
       "projectPath": "C:\\repos\\MoneyExtension\\MoneyExtension\\MoneyExtension.csproj",
       "packagesPath": "C:\\Users\\wisch\\.nuget\\packages\\",
       "outputPath": "C:\\repos\\MoneyExtension\\MoneyExtension\\obj\\",

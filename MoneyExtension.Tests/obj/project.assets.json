@@ -685,14 +685,14 @@
           }
         }
       },
-      "MoneyExtensions/1.0.0": {
+      "MoneyExtension/1.0.0": {
         "type": "project",
         "framework": ".NETCoreApp,Version=v9.0",
         "compile": {
-          "bin/placeholder/MoneyExtensions.dll": {}
+          "bin/placeholder/MoneyExtension.dll": {}
         },
         "runtime": {
-          "bin/placeholder/MoneyExtensions.dll": {}
+          "bin/placeholder/MoneyExtension.dll": {}
         }
       }
     }
@@ -1654,7 +1654,7 @@
         "version.txt"
       ]
     },
-    "MoneyExtensions/1.0.0": {
+    "MoneyExtension/1.0.0": {
       "type": "project",
       "path": "../MoneyExtension/MoneyExtension.csproj",
       "msbuildProject": "../MoneyExtension/MoneyExtension.csproj"
@@ -1664,7 +1664,7 @@
     "net9.0": [
       "MSTest >= 3.6.4",
       "Microsoft.NET.Test.Sdk >= 17.12.0",
-      "MoneyExtensions >= 1.0.0"
+      "MoneyExtension >= 1.0.0"
     ]
   },
   "packageFolders": {
